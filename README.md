@@ -35,3 +35,6 @@ The write operation occurs on the positive edge of the clock when the write enab
 
 This Verilog SRAM model is ideal for simulating memory in digital designs such as cache, register files, or temporary storage in processors and microcontrollers.
 
+output:
+<img width="1574" height="814" alt="Image" src="https://github.com/user-attachments/assets/b1b38c1f-5366-41a4-86d2-674121a73406" />
+
